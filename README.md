@@ -15,23 +15,25 @@ Testing dependency:
 
 Problems Content
 --------
+
 ### 1. Intro & Basic questions
 
-* [Fizz Buzz]()
+Java
+* [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.%20Basic/FizzBuzz.java)
 
-### Trees
+JavaScript
+* [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/JavaScript/fizzbuzz/index.js)
 
-* [Binary tree by level]()
 
 Developed By
 ------------
 
 * Rene Huang- <rene.huang@gmail.com>
 
-<a href="https://www.instagram.com/hiaroscuro/?hl=en" target="blank">
+<a href="https://www.instagram.com/hiaroscuro/?hl=en" target="_blank">
   <img alt="Follow me on Twitter" src="https://image.flaticon.com/icons/svg/174/174855.svg" height="60" width="60"/>
 </a>
-<a href="https://www.linkedin.com/in/rene-huang-09119881/" target="blank">
+<a href="https://www.linkedin.com/in/rene-huang-09119881/" target="_blank">
   <img alt="Add me to Linkedin" src="https://image.flaticon.com/icons/svg/174/174857.svg" height="60" width="60"/>
 </a>
 
