@@ -10,8 +10,8 @@ Every solution is tested and some of them contains more than 1 solution with dif
 2. For Javascript solutions, some of these have been resloved using TDD. You can check the solution by directly fork&clone this repo and exectuing test inside tests directory.
 
 Testing dependency:
-Step1: Install jest => "npm i -g jest"
-Step2: for instance, test fizzbuzz solution, run command "jest fizzbuzz/test.js --watch"
+* Step1: Install jest => "npm i -g jest"
+* Step2: for instance, test fizzbuzz solution, run command "jest fizzbuzz/test.js --watch"
 
 Problems Content
 --------
@@ -28,11 +28,11 @@ Developed By
 
 * Rene Huang- <rene.huang@gmail.com>
 
-<a href="https://www.instagram.com/hiaroscuro/?hl=en">
-  <img alt="Follow me on Twitter" src="https://image.freepik.com/iconos-gratis/twitter-logo_318-40209.jpg" height="60" width="60"/>
+<a href="https://www.instagram.com/hiaroscuro/?hl=en" target="blank">
+  <img alt="Follow me on Twitter" src="https://image.flaticon.com/icons/svg/174/174855.svg" height="60" width="60"/>
 </a>
-<a href="https://www.linkedin.com/in/rene-huang-09119881/">
-  <img alt="Add me to Linkedin" src="https://image.freepik.com/iconos-gratis/boton-del-logotipo-linkedin_318-84979.png" height="60" width="60"/>
+<a href="https://www.linkedin.com/in/rene-huang-09119881/" target="blank">
+  <img alt="Add me to Linkedin" src="https://image.flaticon.com/icons/svg/174/174857.svg" height="60" width="60"/>
 </a>
 
 
