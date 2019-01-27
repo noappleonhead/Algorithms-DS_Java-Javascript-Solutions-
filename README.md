@@ -24,8 +24,8 @@ Java
 
 JavaScript
 * [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/Fizzbuzz)
-* [Reverse Integer](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseInt)
-* [Reverse String](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseString)
+* [Reverse Integer](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseInt/index.js)
+* [Reverse String](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseString/index.js)
 
 
 Developed By
