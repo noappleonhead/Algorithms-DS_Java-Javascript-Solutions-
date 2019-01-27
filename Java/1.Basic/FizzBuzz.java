@@ -1,12 +1,10 @@
 // LintCode Question#: 9
-// Description
-// Given number n. Print number from 1 to n. But:
 
+// Given number n. Print number from 1 to n. But:
 // when number is divided by 3, print "fizz".
 // when number is divided by 5, print "buzz".
 // when number is divided by both 3 and 5, print "fizz buzz".
 // when number can't be divided by either 3 or 5, print the number itself.
-
 
 public List<String> fizzBuzz(int n) {
     ArrayList<String> results = new ArrayList<String>();
