@@ -19,17 +19,17 @@ Content
 ### 1. Intro & Basic questions
 
 Java
-* [Fizz Buzz]()
-* [Reverse Integer]()
+* [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/FizzBuzz.java)
+* [Reverse Integer](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/ReverseInt.java)
 
 JavaScript
-* [Fizz Buzz]()
-* [Reverse Integer]()
+* [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/Fizzbuzz)
+* [Reverse Integer](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseInt/index.js)
+* [Reverse String](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseString/index.js)
 
 ### 1. Intro & Basic questions
 Java
 * [Palindrome]()
-
 
 JavaScript
 * [Palindrome]()
