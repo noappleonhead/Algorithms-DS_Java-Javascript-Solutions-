@@ -25,8 +25,14 @@ Java
 JavaScript
 * [Fizz Buzz]()
 * [Reverse Integer]()
-* [Reverse String]()
 
+### 1. Intro & Basic questions
+Java
+* [Palindrome]()
+
+
+JavaScript
+* [Palindrome]()
 
 Developed By
 ------------
