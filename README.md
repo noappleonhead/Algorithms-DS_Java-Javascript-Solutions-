@@ -16,23 +16,28 @@ Testing dependency:
 Content
 --------
 
-### 1. Intro & Basic(bit, %, logic) questions
+### 1. Intro & Basic(bit, modulo operator, logic) questions
 
 Java
+* [A + B](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/FizzBuzz.java)
 * [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/FizzBuzz.java)
-* [Reverse Integer](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/ReverseInt.java)
+* [Prime factorization](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/ReverseInt.java)
+* [Root of equation](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/blob/master/Java/1.Basic/ReverseInt.java)
 
 JavaScript
 * [Fizz Buzz](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/Fizzbuzz)
 * [Reverse Integer](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseInt/index.js)
 
-### 1. Intro & Basic questions
+### 2. String, Integer, Array, Function, Class
 Java
-* [Palindrome]()
+* [Palindrome Integer]()
+* [Palindrome String]()
+* [Reverse nteger]()
+* [String to interger]()
 
 JavaScript
 * [Reverse String](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseString/index.js)
-* [Palindrome]()
+* [Palindrome](https://github.com/noappleonhead/Algorithms-DS_Java-Javascript-Solutions-/tree/master/JavaScript/1.Basic/ReverseString/index.js)
 
 
 Developed By
